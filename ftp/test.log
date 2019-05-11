@@ -1,0 +1,47 @@
+2019-05-08 10:45:19,371 - root - WARNING [line:45] : logger warning message
+2019-05-08 10:45:19,371 - root - ERROR [line:46] : logger error message
+2019-05-08 10:45:19,371 - root - CRITICAL [line:47] : logger critical message
+2019-05-08 10:45:19,371 - root - WARNING [line:45] : logger warning message
+2019-05-08 10:45:19,371 - root - ERROR [line:46] : logger error message
+2019-05-08 10:45:19,371 - root - CRITICAL [line:47] : logger critical message
+2019-05-08 10:45:19,371 - root - WARNING [line:45] : logger warning message
+2019-05-08 10:45:19,371 - root - ERROR [line:46] : logger error message
+2019-05-08 10:45:19,371 - root - CRITICAL [line:47] : logger critical message
+2019-05-08 10:45:19,371 - root - WARNING [line:45] : logger warning message
+2019-05-08 10:45:19,371 - root - ERROR [line:46] : logger error message
+2019-05-08 10:45:19,371 - root - CRITICAL [line:47] : logger critical message
+2019-05-08 10:45:19,371 - root - WARNING [line:45] : logger warning message
+2019-05-08 10:45:19,371 - root - ERROR [line:46] : logger error message
+2019-05-08 10:45:19,371 - root - CRITICAL [line:47] : logger critical message
+2019-05-08 10:45:19,378 - root - WARNING [line:45] : logger warning message
+2019-05-08 10:45:19,378 - root - ERROR [line:46] : logger error message
+2019-05-08 10:45:19,378 - root - CRITICAL [line:47] : logger critical message
+2019-05-08 10:45:19,378 - root - WARNING [line:45] : logger warning message
+2019-05-08 10:45:19,378 - root - ERROR [line:46] : logger error message
+2019-05-08 10:45:19,378 - root - CRITICAL [line:47] : logger critical message
+2019-05-08 10:45:19,378 - root - WARNING [line:45] : logger warning message
+2019-05-08 10:45:19,378 - root - ERROR [line:46] : logger error message
+2019-05-08 10:45:19,378 - root - CRITICAL [line:47] : logger critical message
+2019-05-08 10:45:19,378 - root - WARNING [line:45] : logger warning message
+2019-05-08 10:45:19,378 - root - ERROR [line:46] : logger error message
+2019-05-08 10:45:19,378 - root - CRITICAL [line:47] : logger critical message
+2019-05-08 10:45:19,378 - root - WARNING [line:45] : logger warning message
+2019-05-08 10:45:19,378 - root - ERROR [line:46] : logger error message
+2019-05-08 10:45:19,378 - root - CRITICAL [line:47] : logger critical message
+2019-05-08 10:56:02,280 - root - INFO [line:44] : logger debug message
+2019-05-08 10:56:02,280 - root - INFO [line:44] : logger debug message
+2019-05-08 10:56:02,280 - root - INFO [line:44] : logger debug message
+2019-05-08 10:56:02,280 - root - INFO [line:44] : logger debug message
+2019-05-08 10:56:02,280 - root - INFO [line:44] : logger debug message
+2019-05-08 10:56:02,281 - root - INFO [line:44] : logger debug message
+2019-05-08 10:56:02,281 - root - INFO [line:44] : logger debug message
+2019-05-08 10:56:02,281 - root - INFO [line:44] : logger debug message
+2019-05-08 10:56:02,281 - root - INFO [line:44] : logger debug message
+2019-05-08 10:56:02,281 - root - INFO [line:44] : logger debug message
+2019-05-08 10:58:22,149 - root - DEBUG [line:25] : has no user
+2019-05-08 10:58:45,531 - root - DEBUG [line:26] : has no user
+2019-05-08 11:01:00,341 - root - DEBUG [line:25] : user is not correct
+2019-05-08 11:01:15,403 - root - DEBUG [line:25] : user is not correct
+2019-05-08 11:01:40,033 - root - DEBUG [line:25] : user is not correct
+2019-05-08 11:55:36,768 - root - DEBUG [line:25] : user is not correct
+2019-05-08 12:01:19,056 - root - DEBUG [line:19] : ok

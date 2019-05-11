@@ -1,0 +1,38 @@
+Mon, 06 May 2019 14:45:36 loggingTest.py[line:9] DEBUG debug message
+Mon, 06 May 2019 14:45:36 loggingTest.py[line:10] INFO info message
+Mon, 06 May 2019 14:45:36 loggingTest.py[line:11] WARNING warning message
+Mon, 06 May 2019 14:45:36 loggingTest.py[line:12] ERROR error message
+Mon, 06 May 2019 14:45:36 loggingTest.py[line:13] CRITICAL critical message
+2019-05-06 14:54:44,520 - root - WARNING - logger warning message
+2019-05-06 14:54:44,521 - root - ERROR - logger error message
+2019-05-06 14:54:44,521 - root - CRITICAL - logger critical message
+2019-05-06 14:58:11,984 - root - WARNING [line:20] : logger warning message
+2019-05-06 14:58:11,984 - root - ERROR [line:21] : logger error message
+2019-05-06 14:58:11,984 - root - CRITICAL [line:22] : logger critical message
+2019-05-08 10:44:44,982 - root - WARNING [line:20] : logger warning message
+2019-05-08 10:44:44,987 - root - ERROR [line:21] : logger error message
+2019-05-08 10:44:44,987 - root - CRITICAL [line:22] : logger critical message
+2019-05-08 10:47:41,459 - root - WARNING [line:20] : logger warning message
+2019-05-08 10:47:41,459 - root - ERROR [line:21] : logger error message
+2019-05-08 10:47:41,459 - root - CRITICAL [line:22] : logger critical message
+2019-05-08 10:48:10,891 - root - WARNING [line:20] : logger warning message
+2019-05-08 10:48:10,891 - root - ERROR [line:21] : logger error message
+2019-05-08 10:48:10,892 - root - CRITICAL [line:22] : logger critical message
+2019-05-08 10:48:19,103 - root - CRITICAL [line:22] : logger critical message
+2019-05-08 10:48:49,970 - root - CRITICAL [line:23] : logger critical message
+2019-05-08 10:49:10,776 - root - CRITICAL [line:23] : logger critical message
+2019-05-08 10:51:39,456 - root - WARNING [line:21] : logger warning message
+2019-05-08 10:51:39,456 - root - ERROR [line:22] : logger error message
+2019-05-08 10:51:39,456 - root - CRITICAL [line:23] : logger critical message
+2019-05-08 10:51:44,309 - root - WARNING [line:21] : logger warning message
+2019-05-08 10:51:44,309 - root - ERROR [line:22] : logger error message
+2019-05-08 10:51:44,309 - root - CRITICAL [line:23] : logger critical message
+2019-05-08 10:53:46,448 - root - WARNING [line:21] : logger warning message
+2019-05-08 10:53:46,448 - root - ERROR [line:22] : logger error message
+2019-05-08 10:53:46,448 - root - CRITICAL [line:23] : logger critical message
+2019-05-08 10:55:01,440 - root - DEBUG [line:21] : logger debug message
+2019-05-08 10:55:01,440 - root - INFO [line:22] : logger info message
+2019-05-08 10:55:01,440 - root - WARNING [line:23] : logger warning message
+2019-05-08 10:55:01,440 - root - ERROR [line:24] : logger error message
+2019-05-08 10:55:01,440 - root - CRITICAL [line:25] : logger critical message
+2019-05-08 10:55:12,023 - root - CRITICAL [line:25] : logger critical message
